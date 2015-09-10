@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/big/wz/android/StudioProjects/FillerCreepForAndroid/app/src/main/assets"/></dataSet><dataSet config="debug"><source path="/big/wz/android/StudioProjects/FillerCreepForAndroid/app/src/debug/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/cshome/camclean/Documents/2015-2016/CMPUT301/FillerCreepForAndroid/app/src/main/assets"/></dataSet><dataSet config="debug"><source path="/cshome/camclean/Documents/2015-2016/CMPUT301/FillerCreepForAndroid/app/src/debug/assets"/></dataSet></merger>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/big/wz/android/StudioProjects/FillerCreepForAndroid/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/cshome/camclean/Documents/2015-2016/CMPUT301/FillerCreepForAndroid/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">FillerCreep</string>
     <string name="autoplay">Auto-Play</string>
